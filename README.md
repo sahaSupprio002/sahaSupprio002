@@ -21,11 +21,15 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" src="assets/THNOkGgv3C.gif" width="250"/>
+
 I am SUPPRIO SAHA PRANTO, an aspiring Software and Embedded Systems Engineer interested in IoT, firmware development, web technologies, computer vision, and data analysis.
 
 I enjoy developing practical systems that connect hardware and software together. My projects include embedded and IoT-based applications, web platforms, API-driven systems, automation concepts, and computer vision-based solutions.
 
 Through continuous learning and project work, I am building a strong foundation in software engineering, embedded development, problem-solving, and system integration. My goal is to contribute to real-world engineering solutions that are reliable, useful, and impactful.
+
+<br clear="right"/>
 
 ---
 
